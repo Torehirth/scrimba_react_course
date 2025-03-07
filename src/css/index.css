@@ -29,3 +29,7 @@ li {
   margin-top: 5px;
   list-style: disc;
 }
+
+.react-logo {
+  max-width: 2rem;
+}
